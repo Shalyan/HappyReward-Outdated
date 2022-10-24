@@ -1,0 +1,11 @@
+main: cconfetti.happyreward.HappyReward
+version: 0.0.4
+name: HappyReward
+
+commands:
+  hreward:
+    description: happyreward command	
+  daily:
+    description: daily reward
+  reward:
+    description: reset cooldown

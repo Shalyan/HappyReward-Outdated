@@ -1,0 +1,188 @@
+###########################################################
+##  ___     ___                                          ##
+## |   |   |   |                                         ##
+## |   |   |   |                                         ##
+## |   |___|   |   ______     _____     _____   __    __ ##
+## |           |  /  __  \   /  _  \   /  _  \  \ \  / / ##
+## |    ___    | |  |__|  | |  |_|  | |  |_|  |  \ \/ /  ##
+## |   |   |   | |   __   | |   ___/  |   ___/    |  |   ##
+## |   |   |   | |  |  |  | |  |      |  |        |  |   ##
+## |___|   |___| |__|  |__| |__|      |__|        |__|   ##
+###########################################################
+
+################################            
+## Happy Reward by CConfetti  ##
+################################
+
+################################            
+##           Config           ##
+################################
+
+Config:
+
+################################            
+##      General Config        ##
+################################
+
+   General:
+      check-update: true
+      admin-permission: "happyreward.admin"
+      reload-permission: "happyreward.reload"
+      
+################################            
+##    Dailly Reward Config    ##
+################################
+
+   Daily:
+      daily-reward: true
+      daily-broadcast: true
+      daily-commands:
+      - "give %player% diamond 1"
+      
+################################            
+##  KillPlayer Reward Config  ##
+################################
+
+   Kill:
+      kill-reward: false
+      kill-commands:
+      - "give %killer% diamond 1"
+      
+################################            
+##   KillMob Reward Config    ##
+################################
+
+   KillMob:
+      mob-reward-message: true
+      
+################################            
+##    Passive Mobs Config     ##
+################################
+
+      bat:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      pig:
+         reward: false
+         commands:
+         - "give %killer% diamond 1" 
+      sheep:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      cow:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      chicken:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"   
+      squid:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      wolf:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      mushroom:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      ocelot:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      horse:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      rabbit:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      villager:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+         
+################################            
+##    Hostile Mobs Config     ##
+################################
+
+      creeper:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+         
+      skeleton:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+         
+      spider:
+         reward: false
+         commands:
+         - "give %killer% diamond 1" 
+         
+      zombie:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      slime:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      ghast:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      pigman:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      enderman:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+         
+      cave-spider:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      silverfish:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      blaze:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+         
+      magma-cube:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+         
+      witch:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"   
+            
+      endermite:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"
+      
+      guardian:
+         reward: false
+         commands:
+         - "give %killer% diamond 1"      

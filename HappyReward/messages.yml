@@ -1,0 +1,15 @@
+
+messages:
+   General:
+      permission-message: "&cYou do not have permissions"
+      unknown-message: "&cThis command does not exist!"
+   Daily-reward:
+      daily-false-text: "&cThe /daily command is disabled"
+      daily-claim-text: "&aYou have claimed your daily reward!"
+      daily-broadcast-text: "&8[&e*&8] &7%player% &eClaimed his daily reward using /daily"
+   Cooldown:
+      cooldown-message: "&cYou have already used the /daily you must wait &7%time% &cto claim it again"
+      reset-cooldown-message: "&cYou reset the cooldown of &7%player%"
+      no-cooldown-reset-message: "&cThis player has no cooldown"
+   Mob-reward:
+        mob-reward-message-text: "&aYou killed a &7%mob% &and received a reward"
